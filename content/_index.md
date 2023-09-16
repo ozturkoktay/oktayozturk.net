@@ -39,12 +39,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: University of Tennessee, Knoxville
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Knoxville, TN
+          date_start: '2023-08'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -52,14 +51,56 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Assistant
+          company: Wichita State University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Wichita, KS
+          date_start: '2022-02-01'
+          date_end: '2023-07-31'
+          description: |2-
+              • Completed computer vision tasks for the research project using Python and computer vision methods.
+              • Trained and tested different deep learning models using Python for the specific object detection task.
+              • Reviewed and made a decision on more than 500+ CS master applications to the university.
+          - title: Data Engineer
+          company: Data Engineer Metamorfoz ICT Inc.
+          company_url: ''
+          company_logo: org-x
+          location: Istanbul, Turkey
+          date_start: '2021-01-01'
+          date_end: '2021-12-31'
+          description: |2-
+              • Worked with MySQL, Oracle, and PostgreSQL databases
+              • Worked with business intelligence report tools, such as JasperReports
+              • Developed data analysis tools using Java 
+              • Implemented new features to company products using Java and Python
+              • Worked on DevOps/operational processes
+          - title: Senior Researcher
+          company: Galatasaray University
+          company_url: ''
+          company_logo: org-x
+          location: Istanbul, Turkey
+          date_start: '2020-07-01'
+          date_end: '2021-07-31'
+          description: |2-
+              • Worked with Dr. Ismail Burak Parlak on computer vision, GANs, and deep learning
+              • Developed SRGAN deep learning network structure for MRI images using Python
+              • Analyzed biomedical three-dimensional images and trained these images for super-resolution
+          - title: Data Scientist
+          company: ZackAI
+          company_url: ''
+          company_logo: org-x
+          location: Istanbul, Turkey
+          date_start: '2019-03-01'
+          date_end: '2020-09-31'
+          description: |2-
+              • Led sentiment analysis service for the Turkish language - worked with Python and different deep learning frameworks.
+              • Worked on software design
+              • Worked with Natural Language Processing techniques - Turkish language, worked with Python and NLP methods
+              • Worked with machine learning and deep learning techniques - worked with Python and Tensorflow/PyTorch, scikit-learn
+              • Worked with IBM Watson/IBM Watson services - commonly Python used
+              • Developed web scraping and web crawling tools - selenium, beatifulsoup are used
+              • Cleaned text data - manual cleaning, Excel, Bash Scripting, and Python used
     design:
       columns: '2'
   # - block: accomplishments
